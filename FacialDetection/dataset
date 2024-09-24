@@ -1,0 +1,2 @@
+### Your images that get captured during the execution of "face.py" will get stored here.
+### And these very images will next be used to train the mode, when we execute the "trainer.py"
